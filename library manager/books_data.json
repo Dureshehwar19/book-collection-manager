@@ -1,0 +1,23 @@
+[
+    {
+        "title": "source code",
+        "author": "bill gates",
+        "year": "2025",
+        "genre": "memior",
+        "read": false
+    },
+    {
+        "title": "our evenings",
+        "author": "alan hollinghurst",
+        "year": "2024",
+        "genre": "fictional",
+        "read": false
+    },
+    {
+        "title": "namal",
+        "author": "nimrah ahmed",
+        "year": "2014",
+        "genre": "sprituality",
+        "read": true
+    }
+]
